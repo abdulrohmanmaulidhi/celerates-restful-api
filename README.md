@@ -156,7 +156,7 @@ Jika berhasil, muncul pesan:
 Kamu dapat menguji seluruh endpoint menggunakan koleksi Postman berikut:
 
 🔗 **Link Koleksi Postman:**
-[https://www.postman.com/collections/your-collection-link](https://www.postman.com/collections/your-collection-link)
+[https://www.postman.com/workspace/Celerates~ba0d6cc4-e207-4fdb-90f9-2bec0eb10dd4/collection/32771563-19229e58-1294-480a-9d36-c1bf348154be?action=share&source=copy-link&creator=32771563](https://www.postman.com/workspace/Celerates~ba0d6cc4-e207-4fdb-90f9-2bec0eb10dd4/collection/32771563-19229e58-1294-480a-9d36-c1bf348154be?action=share&source=copy-link&creator=32771563)
 
 ---
 
