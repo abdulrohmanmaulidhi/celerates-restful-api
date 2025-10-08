@@ -166,8 +166,8 @@ Tambahkan script berikut agar server dapat dijalankan dengan hot reload:
 
 ```json
 "scripts": {
-  "start": "node index.js",
-  "dev": "nodemon index.js"
+  "start": "node src/index.js",
+  "dev": "nodemon src/index.js"
 }
 ```
 
